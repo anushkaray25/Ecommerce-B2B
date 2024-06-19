@@ -1,0 +1,125 @@
+body {
+    overflow: hidden;
+    height: 100vh;
+    display: block;
+    margin: 0px;
+    
+}
+.left-section {
+        height: 100vh;
+        width: 93%;
+        
+        display: flex;
+        align-items: center;
+      }
+.background{
+        width: 682px;
+        height: 667px;
+        gap: 0px;
+        opacity: 1px;
+        display: flex;
+        justify-content: center;
+        left: 0px;
+        align-items: center;
+        background-color: #fd7945
+      }
+      .content {
+        z-index: 1;
+        text-align: center;
+        padding: 0px;
+      }
+    
+      .image-background {
+        background: rgba(252, 218, 105, 1);
+        width: 93px;
+        height: 93px;
+        top: 63px;
+        left: 70px;
+        gap: 0px;
+        border-radius: 10px 10px 10px 10px;
+        opacity: 1; /* Set opacity to 1 to make it visible */
+        position: absolute; /* Add position: absolute to position the element */
+      }
+      .white-background {
+        background: rgba(255, 255, 255, 1);
+        width: 65px;
+        height: 65px;
+        top: 60px;
+        left: 414px;
+        gap: 0px;
+        border-radius: 10px 10px 10px 10px;
+        opacity: 1; /* Set opacity to 1 to make it visible */
+        position: absolute; /* Add position: absolute to position the element */
+      }
+      .image-background2 {
+        background: rgba(255, 255, 255, 1);
+        width: 99px;
+        height: 99px;
+        top: 425px;
+        left: 96px;
+        gap: 0px;
+        opacity: 1px;
+        border-radius: 10px 10px 10px 10px;
+        opacity: 1; /* Set opacity to 1 to make it visible */
+        position: absolute; /* Add position: absolute to position the element */
+      }
+      .yellow-background {
+        background: rgba(252, 218, 105, 1);
+        height: 65px;
+        top: 465px;
+        left: 276px;
+        gap: 0px;
+        border-radius: 10px 10px 10px 10px;
+        opacity: 1; /* Set opacity to 1 to make it visible */
+        position: absolute; /* Add position: absolute to position the element */
+        width: 65px;
+
+      }
+    .img1{
+        position: absolute;
+        width: 156px;
+        height: 156px;
+        top: 234px;
+        left: 501px;
+        gap: 0px;
+        border-radius: 10px 10px 10px 10px;
+        opacity: 0px;
+      }
+      .img2{
+        position: absolute;
+        width: 118px;
+        height: 118px;
+        top: 282px;
+        left: 292px;
+        gap: 0px;
+        border-radius: 100px;
+        opacity: 0px;
+
+      }
+      .img3{
+      opacity: 0px;
+      position: absolute;
+      width: 118px;
+      height: 118px;
+      left: 28px;
+      top: 51px;
+      border-radius: 10px;
+      }
+      .img4{
+      position: absolute;
+      width: 118px;
+      height: 118px;
+      left: 58px;
+      top: 415px;
+      border-radius: 10px;
+
+      }
+      .img5
+      {
+        width: 401px;
+        height: 162px;
+        top: 15px;
+        left: 818px;
+        gap: 0px;
+        opacity: 50%;
+      }

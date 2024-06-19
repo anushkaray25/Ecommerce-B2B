@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inika:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.form-control::placeholder {
+  font-family: 'Poppins';
+}
+
+
+img{
+  width:max-content;
+  max-height: max-content;
+}
+h2 {
+  font-family: 'Inika';
+  font-weight: 600 !important;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+body {
+    background-color: #f8f9fa;
+  }
+  .container-fluid.maxx {
+    padding-left: 0px;
+    padding-right: 0px; }
+  .signup-form {
+    max-width: 600px;
+    width: 100%;
+  
+  }
+  .form-control:focus{
+    border-color: none;
+    box-shadow: none;
+  }
+  
+  .logo {
+    max-width: 100px;
+  }
+  
+  .bttn {
+    background-color: #f66b0e !important;
+  }
+  
+  .btn:hover {
+    background-color: #e65b00;
+  }
+  .gbttn{
+    background: rgba(247, 102, 49, 0.3)!important;
+  }
+  .text-orange {
+    color: #f66b0e;
+  }
+  .text-centre{
+    text-align: center;
+  }
+  .input-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    color: #f66b0e;
+  }
+  .btn{
+    font-family: 'Poppins'!important;
+  }
+  .image{
+    /* image 18 */
+
+position: absolute;
+width: 401px;
+height: 162px;
+left: 694px;
+top: -15px;
+
+filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.15));
+
+  }
+.input-group-text{
+  background-color: #ffff !important;
+  border: none !important;
+}
+.input-group{
+  border: 1px solid #ABABAB;
+}
